@@ -34,11 +34,13 @@ Input/Testing Data can be found under "Inventory.dat"
 - contains duplicate data
 - holds data necessary to create screen devices
 
+Output should mention duplicate date skipped and inventory count for
+  1. Screens
+  2. Computer Monitors 
+  3. Smart tvs
+
 
 
 <img src="Class Diagram.png">
 <img src="Output.png">
--- Output should mention duplicate date skipped and inventory count for
-  1. Screens
-  2. Computer Monitors 
-  3. Smart tvs
+
