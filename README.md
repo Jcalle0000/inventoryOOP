@@ -7,8 +7,8 @@ Utilized inheritance capabilties and built a heirachy of classes using Interface
 Main Abstract Class: <b> Screen </b>
 
 Classes built from Screen
-  1. ComputerMonitor
-                  1. CRT 
+  1. ComputerMonitor <br>
+                  1. CRT <br>
                   2. LED
   2. SmartTv
   
