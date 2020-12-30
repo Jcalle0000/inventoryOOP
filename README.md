@@ -4,7 +4,7 @@ Utilized inheritance capabilties and built a heirachy of classes using Interface
 -- Comments can be found through the java files for through explanation
 -- Getters and setters are made for all objects 
 
-Main Abstract Class: Screen
+Main Abstract Class: <b> Screen </b>
 
 Classes built from Screen
   1. ComputerMonitor
