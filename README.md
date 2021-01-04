@@ -14,18 +14,21 @@ Classes built from Screen
   
  -- Inventory devices were built from input data 
 
-Inventory Class holds all screen objects 
-Methods
-        1. Boolean addToInventory()
-        2. listComputerMonitor() - returns an arraylist of supertype Computer Monitor
-        3. listSmartTv() 
+Inventory Class holds all screen objects <br>
+Methods <br>
+        1. Boolean addToInventory() <br>
+        2. listComputerMonitor() - returns an arraylist of supertype Computer Monitor <br>
+        3. listSmartTv() <br>
 
-ArrayList for Screen Devices
-  -- ArrayLists were used in order to improve code efficiency and increase use of methods provided  by the data structure
-  -- try/catch statements are used in order to show messages of duplicate data
+ArrayList for <b>Screen Devices</b>
+  -- ArrayLists were used in order to improve code efficiency and increase use of methods provided  by the data structure <br>
+  -- devices are inserted into into the list in O(n) <br>
+  -- try/catch statements are used in order to show messages of duplicate data when encountered <br>
 
-ArrayList for ComputerMonitors
--- as we iterate through the list of Inventory which was created above distinguishing all devices we further create CRT and LED objects if theyre identified as computerMonitors by creating instances of them in O(n)
+ArrayList for ComputerMonitors<br>
+-- as we iterate through the list of <i>Screen Devices</i> we further categorize objects based on their data input creating a new array list called computerMonitors containing objects of CRT and LED 
+
+Arraylist for SmartTv
 -- the process is the same for listSmartTv
 
 -- Data was formated by iterating through the listInventory 
