@@ -4,6 +4,8 @@ Utilized inheritance capabilties and built a heirachy of classes using Interface
 -- Comments can be found through the java files for through explanation
 -- Getters and setters are made for all objects 
 
+Main code can be found in the src folder
+
 Main Abstract Class: <b> Screen </b>
 
 Classes built from Screen
